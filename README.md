@@ -3,4 +3,4 @@ This interactive visualization uses the [Belly Button Bio Diversity Dataset](htt
 
 ## How to use
 Select the test subject ID no. to see one test subject's data
-Hover over the charts to see other details such as the bacteria cultures
+<br/>Hover over the charts to see other details such as the bacteria cultures
