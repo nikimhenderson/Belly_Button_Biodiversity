@@ -2,21 +2,6 @@
 const url =
   "https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json";
 
-/*let metadata = null;
-let names = null;
-let samples = null;
-
-//put datasets into global variables
-d3.json(url).then(function(data){ 
-    metadata = data["metadata"];
-    names = data["names"];
-    samples = data.samples; // samples dataset
-    console.log(samples)
-});
-*/
-//Horizontal bar chart w dropdown menu to display top 10 OTUs
-let otuIds = [];
-let sampleValues = [];
 
 //starting point that populates dropdown
 function start() {
@@ -65,7 +50,4 @@ function display_metadata(x) {
 function charts(x) {
     
 }
-//let sampleValues = samples["sample_values"].slice(0,10);
-/*let trace1 = {
-    x:
-}*/
+
