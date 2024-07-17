@@ -13,6 +13,6 @@ Software: VS Code, Javascript, Plotly, D3, HTML
 The data reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 ## How to use
-To view the webpage go to: [https://nikimhenderson.github.io/belly-button-challenge/](https://nikimhenderson.github.io/belly-button-challenge/)
+To view the webpage go to: [[https://nikimhenderson.github.io/Belly_Button_Biodiversity/](https://nikimhenderson.github.io/Belly_Button_Biodiversity/)
 <br/>Select the test subject ID no. to see one test subject's data
 <br/>Hover over the charts to see other details such as the bacteria cultures
