@@ -5,6 +5,8 @@ The purpose of this project was to create a web application dashboard using Java
 2. Bar chart of the top 10 bacteria cultures found
 3. Bubble chart of bacteria cultures per sample
 
+![Screenshot 2024-07-17 103326](https://github.com/user-attachments/assets/1418efbe-710b-4d24-8943-8d131e41a0fa)
+
 ## Resources
 Data Source: samples.json
 Software: VS Code, Javascript, Plotly, D3, HTML
