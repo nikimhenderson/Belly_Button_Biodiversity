@@ -1,4 +1,4 @@
-# belly-button-challenge
+# Belly_Button_Biodiversity
 This interactive visualization uses the [Belly Button Bio Diversity Dataset](http://robdunnlab.com/projects/belly-button-biodiversity/) to visualize data that reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 ## How to use
