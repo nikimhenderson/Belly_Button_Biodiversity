@@ -16,5 +16,3 @@ The data reveals that a small handful of microbial species (also called operatio
 To view the webpage go to: [https://nikimhenderson.github.io/belly-button-challenge/](https://nikimhenderson.github.io/belly-button-challenge/)
 <br/>Select the test subject ID no. to see one test subject's data
 <br/>Hover over the charts to see other details such as the bacteria cultures
-### Thank yous
-Thank you to my tutors Kelli and John for help in planning and constructing my code (seen in app.js in static and js folders)
