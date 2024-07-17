@@ -27,7 +27,7 @@ To view the webpage go to: [https://nikimhenderson.github.io/Belly_Button_Biodiv
 ![Screenshot 2024-07-17 104230](https://github.com/user-attachments/assets/b28e88e0-1792-435c-9d65-1e6ae3609800)<br/>
 ![Screenshot 2024-07-17 104453](https://github.com/user-attachments/assets/2f402cf6-beb3-4412-9572-cff8e7498235)
 
-4. Initialize the bar chart & bubble chart
+4. Initialize the bar chart & bubble chart <br/>
 ![Screenshot 2024-07-17 104723](https://github.com/user-attachments/assets/f723db5d-0cf3-4825-90b6-28d96bacf85c)<br/>
 ![Screenshot 2024-07-17 104740](https://github.com/user-attachments/assets/dbfffde7-78c5-4b93-866e-f72f5bcc0422)
 
